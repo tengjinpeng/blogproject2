@@ -25,7 +25,7 @@ SECRET_KEY = '&0eaf+6%*+=4o*sgke(!mhiv9&1qik%-s#mnye2@l6e2my1f@0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','.tjp.ink']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','47.101.222.64']
 
 
 # Application definition
